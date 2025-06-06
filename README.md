@@ -17,7 +17,7 @@ Open-source data science projects, NLP applications, and AI for sustainability.
 [LinkedIn](https://www.linkedin.com/in/sanmeetkaur-gulati-680623204) | [Email](sanmeetgulati41121@gmaiil.com
 )
 
-😄 **Pronouns:** He/Him
+😄 **Pronouns:** She/Her
 
 ⚡ **Fun Fact:**  
 I’m building an AI-powered video summarization app that breaks language barriers! 🌍✨
