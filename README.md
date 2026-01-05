@@ -5,10 +5,10 @@
 ---
 
 👀 **Interests:**  
-Data analysis, predictive modeling, NLP, sustainable AI, and turning data into insights.
+Data analysis, predictive modeling, sustainable AI, and turning data into insights.
 
 🌱 **Currently Learning:**  
-Advanced ML algorithms, cloud deployment, and Data Structures & Algorithms (DSA).
+NLP And LLM 
 
 💞️ **Let’s Collaborate On:**  
 Open-source data science projects, NLP applications, and AI for sustainability.
