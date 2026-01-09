@@ -1,7 +1,7 @@
 # 👋 Sanmeetkaur Gulati
 
 🎓 Master’s Student – Data Science  
-🔬 AI/ML Researcher | Computer Vision | NLP  
+🔬 AI/ML Researcher | Data Scientist | Data Analyst  
 📍 Pune, India  
 
 I build practical, research-driven AI systems focused on **accessibility**, **language understanding**, and **real-world impact**.
