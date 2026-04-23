@@ -1,7 +1,7 @@
 # 👋 Sanmeet Gulati
 
 🎓 Master’s Student – Data Science  
-🔬 AI/ML Researcher | Data Scientist | Data Analyst  
+🔬 AI/ML| Data Scientist 
 📍 Pune, India  
 
 I build practical, research-driven AI systems focused on **accessibility**, **language understanding**, and **real-world impact**.
@@ -33,6 +33,7 @@ I build practical, research-driven AI systems focused on **accessibility**, **la
 - Flask backend with user-authenticated storage and Q&A support
 
 ---
+
 
 ## 🏆 Highlights
 - 📄 Research paper accepted at **NCSAT 2026**
