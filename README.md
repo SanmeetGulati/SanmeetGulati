@@ -1,4 +1,4 @@
-# 👋 Sanmeetkaur Gulati
+# 👋 Sanmeet Gulati
 
 🎓 Master’s Student – Data Science  
 🔬 AI/ML Researcher | Data Scientist | Data Analyst  
