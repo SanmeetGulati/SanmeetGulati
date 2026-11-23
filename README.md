@@ -1,7 +1,7 @@
 # 👋 Sanmeet Gulati
 
 🎓 Master’s Student – Data Science  
-🔬 AI/ML| Data Scientist 
+🔬 AI/ML Engineer (Currently working on VLM and ASR models)
 📍 Pune, India  
 
 I build practical, research-driven AI systems focused on **accessibility**, **language understanding**, and **real-world impact**.
